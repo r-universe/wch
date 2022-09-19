@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "downloader",
+    "oncran": true
+  },
+  {
     "package": "extrafont",
     "oncran": true
   },

@@ -8,6 +8,11 @@
 	url = https://github.com/wch/bisectr
 	shallow = true
 	registered = true
+[submodule "downloader"]
+	path = downloader
+	url = https://github.com/wch/downloader
+	shallow = true
+	registered = true
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/wch/extrafont
