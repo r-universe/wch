@@ -1,10 +1,6 @@
 [
   {
-    "package": "bisectr",
-    "oncran": true
-  },
-  {
-    "package": "downloader",
+    "package": "fontcm",
     "oncran": true
   },
   {
@@ -12,15 +8,19 @@
     "oncran": true
   },
   {
+    "package": "Rttf2pt1",
+    "oncran": true
+  },
+  {
     "package": "extrafontdb",
     "oncran": true
   },
   {
-    "package": "fontcm",
+    "package": "downloader",
     "oncran": true
   },
   {
-    "package": "Rttf2pt1",
+    "package": "bisectr",
     "oncran": true
   },
   {
