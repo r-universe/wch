@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "gcookbook",
+    "oncran": true
+  },
+  {
     "package": "Rttf2pt1",
     "oncran": true
   },
