@@ -23,9 +23,6 @@
 [submodule "gcookbook"]
 	path = gcookbook
 	url = https://github.com/wch/gcookbook
-[submodule "ggvis"]
-	path = ggvis
-	url = https://github.com/cran/ggvis
 [submodule "webshot"]
 	path = webshot
 	url = https://github.com/wch/webshot
