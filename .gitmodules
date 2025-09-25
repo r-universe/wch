@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Rttf2pt1"]
-	path = Rttf2pt1
-	url = https://github.com/wch/Rttf2pt1
-	registered = false
 [submodule "downloader"]
 	path = downloader
 	url = https://github.com/wch/downloader
