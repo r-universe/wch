@@ -4,13 +4,11 @@
 	branch = HEAD
 [submodule "Rttf2pt1"]
 	path = Rttf2pt1
-	url = https://github.com/wch/rttf2pt1
+	url = https://github.com/wch/Rttf2pt1
+	registered = false
 [submodule "downloader"]
 	path = downloader
 	url = https://github.com/wch/downloader
-[submodule "extrafont"]
-	path = extrafont
-	url = https://github.com/wch/extrafont
 [submodule "extrafontdb"]
 	path = extrafontdb
 	url = https://github.com/wch/extrafontdb
