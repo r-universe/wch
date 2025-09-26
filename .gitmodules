@@ -8,9 +8,6 @@
 [submodule "extrafontdb"]
 	path = extrafontdb
 	url = https://github.com/wch/extrafontdb
-[submodule "fontcm"]
-	path = fontcm
-	url = https://github.com/wch/fontcm
 [submodule "gcookbook"]
 	path = gcookbook
 	url = https://github.com/wch/gcookbook
