@@ -5,9 +5,6 @@
 [submodule "downloader"]
 	path = downloader
 	url = https://github.com/wch/downloader
-[submodule "extrafontdb"]
-	path = extrafontdb
-	url = https://github.com/wch/extrafontdb
 [submodule "gcookbook"]
 	path = gcookbook
 	url = https://github.com/wch/gcookbook
